@@ -4,8 +4,6 @@ description: Example of student work from the course.
 file: /courses/es-298-art-of-color-spring-2005/0d5917bd971fd942b95a3f315306a5df_image5.jpg
 file_size: 141971
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

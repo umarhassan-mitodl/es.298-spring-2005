@@ -5,8 +5,6 @@ description: Example of student work from the course. Courtesy of Thuy-Tien Le. 
 file: /courses/es-298-art-of-color-spring-2005/5c47a6b96e28b2a77b478ec510e6511f_image2.jpg
 file_size: 92185
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

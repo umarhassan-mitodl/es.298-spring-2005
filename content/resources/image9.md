@@ -4,8 +4,6 @@ description: Example of work done by the course instructor.
 file: /courses/es-298-art-of-color-spring-2005/78a2964654b60e34f849fde29a0a92d3_image9.jpg
 file_size: 32330
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
